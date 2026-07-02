@@ -1,0 +1,18 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.nbi
+*.nbc
+
+# Datasets
+*.csv
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
